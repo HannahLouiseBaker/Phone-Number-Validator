@@ -23,7 +23,7 @@ h2 {
   color: /*#F49FC8*/#F7A088;
 }
 
-h3, p, li, label, input, #button, textarea {
+h3, p, li, label, input, #button {
   font-family: "Crimson Text";
   color: #686468;
 }
@@ -36,7 +36,7 @@ p, li {
   font-size: 18px;
 }
 
-label, input, textarea {
+label, input {
   font-size: 16px;
 }
 
@@ -130,7 +130,7 @@ form {
     font-size: 22px;
   }
 
-  p, li, textarea {
+  p, li {
     font-size: 18px;
   }
 }
